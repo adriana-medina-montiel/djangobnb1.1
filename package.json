@@ -1,7 +1,14 @@
 {
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@types/react-datepicker": "^7.0.0",
     "axios": "^1.8.4",
+    "date-fns": "^4.1.0",
     "DatePicker": "^2.0.0",
+    "react-date-range": "^2.0.1",
     "react-datepicker": "^8.2.1"
+  },
+  "devDependencies": {
+    "@types/react-date-range": "^1.4.10"
   }
 }
